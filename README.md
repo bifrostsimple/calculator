@@ -1,7 +1,9 @@
-Calculator.js: a node.js Demonstration Project
+![image](https://github.com/bifrostsimple/calculator/assets/142265814/987c6f10-0c92-4b01-904b-2de7ee523245)Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+
+[![Build Status](https://dev.azure.com/Trackly/Calculator/_apis/build/status%2Fbifrostsimple.calculator?branchName=master)](https://dev.azure.com/Trackly/Calculator/_build/latest?definitionId=6&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
