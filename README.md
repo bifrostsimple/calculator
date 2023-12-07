@@ -1,4 +1,4 @@
-![image](https://github.com/bifrostsimple/calculator/assets/142265814/987c6f10-0c92-4b01-904b-2de7ee523245)Calculator.js: a node.js Demonstration Project
+Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
